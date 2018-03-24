@@ -1,8 +1,10 @@
-To run a server do: npm run start 
-Server will be opened on port 5000;
+To run a server do: 
+npm run start
+ 
+(Server will be opened on port 5000)
 
 In public/javascript/main.js you will fine different mocked data objetcs (depends on type of request)
-Just change the name of object that u want to send to backend;
+(Just change the name of object that u want to send to backend)
 
 Node js:
 
